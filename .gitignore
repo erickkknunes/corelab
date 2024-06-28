@@ -1,0 +1,17 @@
+# Arquivos gerados por editor
+.vscode/
+*.code-workspace
+
+# Arquivos gerados pela execução do Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de build ou dependendo do seu ambiente de desenvolvimento
+build/
+dist/
+*.env
+
+# Dependendo do seu ambiente de desenvolvimento, você pode querer ignorar logs e outras coisas
+logs/
+*.log
